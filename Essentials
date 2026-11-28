@@ -1,0 +1,4 @@
+npm install express@4 mongoose dotenv zod bcryptjs cookie-parser jsonwebtoken
+npm install -D typescript ts-node-dev @types/node @types/express@4 @types/bcryptjs @types/cookie-parser @types/jsonwebtoken
+# tsconfig folder
+
